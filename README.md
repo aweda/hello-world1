@@ -1,2 +1,2 @@
 # hello-world1
-Just another repository
+My name is ismail  , I just began to learn R
